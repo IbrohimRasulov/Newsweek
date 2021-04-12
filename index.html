@@ -3,27 +3,29 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
-    <link rel="stylesheet" href="style.css">
     <title>Newsweek</title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" integrity="sha384-SZXxX4whJ79/gErwcOYf+zWLeJdY/qpuqC4cAa9rOGUstPomtqpuNWT9wdPEn2fk" crossorigin="anonymous">
 </head>
 <body>
-    <div class="container-fluid">
-        <header>
-            <div>
+        <header class="container-fluid">
+            <nav class="navbar navbar navbar-dark bg-primary">
                 <div>
                     <span>Wed, Jan 20, 2021</span>
                 </div>
-                <span class="newsweek-logo">Newsweek</span>
-                <div>
-                    <button id="login-icon"></button>
-                    <button>LOGIN</button>
-                    <button>SUBSCRIBE ❯</button>
-                    <button></button>
+                <span class="nawbar-brand">Newsweek</span>
+                <div class="navbar-header nav d-inline-block">
+                    <ul class="nav navbar-nav">
+                        <li><i class="fas fa-user"></i></li>
+                        <li><button>LOGIN</button></li>
+                        <li><button>SUBSCRIBE ❯</button></li>
+                        <li><i class="fas fa-bars"></i></li>
+                    </ul>
                 </div>
-            </div>
+            </nav>
+
             <div>
                 <ul>
                     <li>U.S.</li>
@@ -53,6 +55,7 @@
                     <li>CAPITOL RIOTS</li>
                 </ul>
             </div>
+        </nav>
         </header>
 
         <footer>
