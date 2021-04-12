@@ -1,24 +1,9 @@
-.selector-for-some-widget {
-    box-sizing: content-box;
-  }
-
-.container-fluid{
-    background-color: #F72710;
+.background {
+    background-color: #f73710;
 }
 
-.navbar-brand{
-    color: white;
+.main-title {
+    font-family: 'Courier New', Courier, monospace;
     font-weight: bolder;
-}
 
-.form-inline{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    flex-wrap: wrap;
-    margin:10px;
-}
-
-.form-inline .fa-user{
-    order: 1;
 }
