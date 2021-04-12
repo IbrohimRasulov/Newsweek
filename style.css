@@ -1,7 +1,9 @@
-.background-red{
-    background-color: #F72710;
+.background {
+    background-color: #f73710;
 }
 
-.btn{
-    display: inline-block;
+.main-title {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+
 }
