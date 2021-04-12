@@ -1,7 +1,24 @@
-.background-red{
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
+
+.container-fluid{
     background-color: #F72710;
 }
 
-.btn{
-    display: inline-block;
+.navbar-brand{
+    color: white;
+    font-weight: bolder;
+}
+
+.form-inline{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin:10px;
+}
+
+.form-inline .fa-user{
+    order: 1;
 }
