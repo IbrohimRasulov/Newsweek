@@ -1,66 +1,67 @@
 /* START Header */
-li, a, button  {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+li,
+a,
+button {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-
 .background {
-    background-color: #f72111;
-    padding: 12px 15px;
+  background-color: #f72111;
+  padding: 12px 15px;
 }
 
 @media (max-width: 767px) {
-    .button-border {
-        border-radius: 17.5px;
-        font-size: 13px;
-        background-color: #ffe401;
-        padding: 2px 10px;
-    }
+  .button-border {
+    border-radius: 17.5px;
+    font-size: 13px;
+    background-color: #ffe401;
+    padding: 2px 10px;
+  }
 }
 
 @media (min-width: 768px) {
-    .button-border {
-        border-radius: 18px;
-        font-size: 18px;
-        background-color: #ffe401;
-        padding: 1px 12px;
-    }
+  .button-border {
+    border-radius: 18px;
+    font-size: 18px;
+    background-color: #ffe401;
+    padding: 1px 12px;
+  }
 }
 
 .login {
-    font-size: 18px;
+  font-size: 18px;
 }
 
 @media (min-width: 992px) {
-    .main-logo-lg {
-        height: 60px !important;
-    }
+  .main-logo-lg {
+    height: 60px !important;
+  }
 }
 
 header a:hover {
-    text-decoration: none;
-    color: #f72111;
+  text-decoration: none;
+  color: #f72111;
 }
 
 /* START Footer */
 
-.fa-lg:hover{
-    color: darkblue !important;
+.fa-lg:hover {
+  color: darkblue !important;
 }
 
-.small{
-    font-family: Arial, Helvetica, sans-serif;
+.small {
+  font-family: Arial, Helvetica, sans-serif;
 }
 
-.logo{
-    fill: #f73710 !important;
+.logo {
+  fill: #f73710 !important;
 }
 
-footer a:hover{
-    text-decoration: none !important;
-    color: black !important;
+footer a:hover {
+  text-decoration: none !important;
+  color: black !important;
 }
 
-body{
-    /* overflow-x: hidden !important; */
+body {
+  /* overflow-x: hidden !important; */
 }
