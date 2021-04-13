@@ -7,7 +7,6 @@ button {
 
 .background {
   background-color: #f72111;
-  padding: 12px 15px;
 }
 
 @media (max-width: 767px) {
@@ -39,12 +38,17 @@ button {
 }
 
 .list-inline-item:not(:last-child) {
-    margin-right: 0;
+  margin-right: 0;
 }
 
 header a:hover {
   text-decoration: none;
   color: #f72111;
+}
+
+.light-bar {
+  color: #ddd;
+  font-weight: lighter;
 }
 
 /* START Footer */
