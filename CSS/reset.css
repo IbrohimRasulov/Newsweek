@@ -144,3 +144,11 @@ table {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
+
+.clr {
+  clear: both;
+}
+
+.space {
+  margin: 200px 0;
+}
