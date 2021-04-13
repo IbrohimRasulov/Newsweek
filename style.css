@@ -5,3 +5,23 @@
 .main-title {
     
 }
+.fa-lg:hover{
+    color: darkblue !important;
+}
+
+.small{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo{
+    fill: #f73710 !important;
+}
+
+footer a:hover{
+    text-decoration: none !important;
+    color: black !important;
+}
+
+body{
+    /* overflow-x: hidden !important; */
+}
