@@ -1,11 +1,9 @@
 .background {
-    background-color: #f73710;
+    background-color: #db0000da;
 }
 
 .main-title {
-    font-family: 'Courier New', Courier, monospace;
-    font-weight: bolder;
-
+    
 }
 .fa-lg:hover{
     color: darkblue !important;
