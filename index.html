@@ -16,6 +16,9 @@
     <link rel="stylesheet" href="CSS/reset.css">
     <link rel="stylesheet" href="CSS/style.css">
 
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300italic,regular,italic,700,700italic" rel="stylesheet" />
+
     <title>Newsweek</title>
 </head>
 
@@ -83,26 +86,30 @@
     </header>
 
     <main>
-        <div class="container-fluid row d-flex flex-xs-column">
+        <div class="row d-flex flex-xs-column">
             <!-- Top Story -->
-            <section class="col-12 top-story mb-3">
-                <p class="text-secondary h5"><a href="#">TOP STORY</a></p>
-                <div>
-                    <h5><a href="#">POLITICS</a></h5>
-                </div>
-                <h4 class="font-weight-bold"><a href="#">Joe Biden's First Executive Actions Undo Many of Donald Trump's</a></h4>
-                <h6 class="small">Actions related to the COVID-19 crisis, climate change and racial equality are to be among the first taken as he begins his tenure.</h6>
+            <section class="col-12">
+                <article class="card px-4">
+                    <p class="text-secondary h5 pt-3"><a href="#">TOP STORY</a></p>
+
+                    <div class="card-body">
+                        <img src="Img/top-story.png" alt="">
+                        <h4 class="font-weight-bold card-title"><a href="#">Joe Biden's First Executive Actions Undo Many of Donald Trump's</a></h4>
+                        <h6 class="small card-text">Actions related to the COVID-19 crisis, climate change and racial equality are to be among the first taken as he begins his tenure.</h6>
+                    </div>
+                </article>
             </section>
 
             <!-- Featured Stories -->
-            <section class="col-12 featured-stories-section mb-3">
-                <article class="mb-3">
-                    <p class="text-secondary h5"><a href="#">FEATURED STORIES</a><p>
-                    <div class="featured-stories-1">
-                        <h5><a href="#">U.S.</a></h5>
+            <section class="col-12 featured-stories-section my-3">
+                <article class="card mb-3 px-4">
+                    <p class="text-secondary h5 pt-3"><a href="#">FEATURED STORIES</a><p>
+                    <img src="Img/featured-stories-1.png" class="card-body" alt="">
+
+                    <div class="card-body">
+                        <h4 class="font-weight-bold card-title"><a href="#">The 73 People Pardoned by Donald Trump on His Last Day As President</a></h4>
+                        <h6 class="small card-text">Notable people pardoned by Trump today include former White House chief strategist Steve Bannon and rapper Lil Wayne.</h6>
                     </div>
-                    <h4 class="font-weight-bold"><a href="#">The 73 People Pardoned by Donald Trump on His Last Day As President</a></h4>
-                    <h6 class="small">Notable people pardoned by Trump today include former White House chief strategist Steve Bannon and rapper Lil Wayne.</h6>
                 </article>
 
                 <article class="mb-3">

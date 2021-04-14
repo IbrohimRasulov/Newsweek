@@ -74,30 +74,6 @@ body {
   /* overflow-x: hidden !important; */
 }
 
-.top-story div{
-  background-image: url("../Img/top-story.webp");
-}
-
-.featured-stories-1 {
-  background-image: url("../Img/featured-stories-1.webp");
-}
-
-.featured-stories-2 {
-  background-image: url("../Img/featured-stories-2.webp");
-}
-
-.featured-stories-3 {
-  background-image: url("../Img/featured-stories-3.webp");
-}
-
-.featured-stories-4 {
-  background-image: url("../Img/featured-stories-4.webp");
-}
-
-.featured-stories-5 {
-  background-image: url("../Img/featured-stories-5.jpg");
-}
-
 .sponsored-insights-1 {
   background-image: url("../Img/sponsored-insights-left-1.jpg");
 }
