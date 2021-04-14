@@ -1,0 +1,75 @@
+/* START Header */
+li,
+a,
+button {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.background {
+  background-color: #f72111;
+}
+
+@media (max-width: 767px) {
+  .button-border {
+    border-radius: 17.5px;
+    font-size: 13px;
+    background-color: #ffe401;
+    padding: 2px 10px;
+  }
+}
+
+@media (min-width: 768px) {
+  .button-border {
+    border-radius: 18px;
+    font-size: 18px;
+    background-color: #ffe401;
+    padding: 1px 12px;
+  }
+}
+
+.login {
+  font-size: 18px;
+}
+
+@media (min-width: 992px) {
+  .main-logo-lg {
+    height: 60px !important;
+  }
+}
+
+.list-inline-item:not(:last-child) {
+  margin-right: 0;
+}
+
+header a:hover {
+  text-decoration: none;
+  color: #f72111;
+}
+
+.light-bar {
+  color: #ddd;
+  font-weight: lighter;
+}
+
+/* START Footer */
+
+.fa-lg:hover {
+  color: #3f6ad8 !important;
+}
+
+.small {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo {
+  fill: #f72111 !important;
+}
+
+.bottom-footer a:hover {
+  text-decoration: none !important;
+  color: #333 !important;
+}
+
+body {
+  /* overflow-x: hidden !important; */
+}
