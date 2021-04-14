@@ -54,7 +54,7 @@ header a:hover {
 /* START Footer */
 
 .fa-lg:hover {
-  color: darkblue !important;
+  color: #3f6ad8 !important;
 }
 
 .small {
@@ -62,12 +62,12 @@ header a:hover {
 }
 
 .logo {
-  fill: #f73710 !important;
+  fill: #f72111 !important;
 }
 
-footer a:hover {
+.bottom-footer a:hover {
   text-decoration: none !important;
-  color: black !important;
+  color: #333 !important;
 }
 
 body {
