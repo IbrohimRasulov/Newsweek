@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
 /* START Header */
 li,
 a,
@@ -140,4 +142,18 @@ body {
 
 .rankongs-right {
   background-image: url("../Img/rankings-right.png")
+}
+
+.latest-news h6,
+.more-stories h6{
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 120%;
+}
+
+.latest-news h4,
+.latest-news p,
+.more-stories h4,
+.more-stories p{
+  font-family: 'Roboto Condensed', sans-serif;
+  line-height: 120%;
 }
