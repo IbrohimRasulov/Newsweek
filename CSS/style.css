@@ -73,3 +73,7 @@ header a:hover {
 body {
   /* overflow-x: hidden !important; */
 }
+
+.top-story div{
+  background-image: url();
+}
