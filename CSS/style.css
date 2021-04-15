@@ -53,6 +53,10 @@ header a:hover {
   font-weight: lighter;
 }
 
+.space{
+  margin-top: 80px;
+}
+
 /* START Footer */
 
 .fa-lg:hover {
@@ -89,9 +93,22 @@ body {
 .more-stories h4,
 .more-stories p
 .opinion p,
+<<<<<<< HEAD
 .the-debate p,
 .my-turn p{
+=======
+.the-debate p
+.vc{
+>>>>>>> 19e04757867f6678a3a7c4e58cbb86a2044d2585
   font-family: 'Roboto Condensed', sans-serif;
   line-height: 120%;
 }
 
+.vc{
+  width: 30px;
+  height: 30px;
+  background-color: black;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
