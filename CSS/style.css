@@ -153,7 +153,10 @@ body {
 .latest-news h4,
 .latest-news p,
 .more-stories h4,
-.more-stories p{
+.more-stories p
+.opinion p,
+.the-debate p{
   font-family: 'Roboto Condensed', sans-serif;
   line-height: 120%;
 }
+
