@@ -89,7 +89,8 @@ body {
 .more-stories h4,
 .more-stories p
 .opinion p,
-.the-debate p{
+.the-debate p,
+.my-turn p{
   font-family: 'Roboto Condensed', sans-serif;
   line-height: 120%;
 }
