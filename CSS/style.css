@@ -7,6 +7,16 @@ button {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+.space {
+  margin-top: 150px !important;
+}
+
+@media (min-width: 992px) {
+  .space {
+    margin-top: 80px !important;
+  }
+}
+
 .background {
   background-color: #f72111;
 }
@@ -76,12 +86,6 @@ header a:hover {
   color: #333 !important;
 }
 
-body {
-  /* overflow-x: hidden !important; */
-}
-
-
-
 .latest-news h6,
 .more-stories h6{
   font-family: Arial, Helvetica, sans-serif;
@@ -99,9 +103,6 @@ body {
 .font div {
   font-family: 'Roboto Condensed', sans-serif;
   line-height: 120%;
-}
-
-.debate{
 }
 
 .vc{
