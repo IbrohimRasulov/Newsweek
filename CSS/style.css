@@ -76,73 +76,7 @@ body {
   /* overflow-x: hidden !important; */
 }
 
-.top-story div{
-  background-image: url("../Img/top-story.webp");
-}
 
-.featured-stories-1 {
-  background-image: url("../Img/featured-stories-1.webp");
-}
-
-.featured-stories-2 {
-  background-image: url("../Img/featured-stories-2.webp");
-}
-
-.featured-stories-3 {
-  background-image: url("../Img/featured-stories-3.webp");
-}
-
-.featured-stories-4 {
-  background-image: url("../Img/featured-stories-4.webp");
-}
-
-.featured-stories-5 {
-  background-image: url("../Img/featured-stories-5.jpg");
-}
-
-.sponsored-insights-1 {
-  background-image: url("../Img/sponsored-insights-left-1.jpg");
-}
-
-.sponsored-insights-2 {
-  background-image: url("../Img/sponsored-insights-left-2.jpg");
-}
-
-.rankings-left {
-  background-image: url("../Img/rankings-left.png");
-}
-
-.sponsored-insights-3 {
-  background-image: url("../Img/sponsored-insights-left-3.jpg");
-}
-
-.culture-travel-1 {
-  background-image: url("../Img/culture-travel-1.webp")
-}
-
-.culture-travel-2 {
-  background-image: url("../Img/culture-travel-2.webp")
-}
-
-.culture-travel-3 {
-  background-image: url("../Img/culture-travel-3.webp")
-}
-
-.sponsored-insights-right-1 {
-  background-image: url("../Img/sponsored-insights-right-1.jpg")
-}
-
-.sponsored-insights-right-2 {
-  background-image: url("../Img/sponsored-insights-right-2.jpg")
-}
-
-.sponsored-insights-right-3 {
-  background-image: url("../Img/sponsored-insights-left-3.jpg")
-}
-
-.rankongs-right {
-  background-image: url("../Img/rankings-right.png")
-}
 
 .latest-news h6,
 .more-stories h6{
