@@ -95,7 +95,8 @@ body {
 .opinion p,
 .the-debate p,
 .my-turn p,
-.vc{
+.vc,
+.font div {
   font-family: 'Roboto Condensed', sans-serif;
   line-height: 120%;
 }
