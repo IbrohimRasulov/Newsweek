@@ -54,7 +54,7 @@ header a:hover {
 }
 
 .space{
-  margin-top: 80px;
+  margin-top: 110px;
 }
 
 /* START Footer */
@@ -113,3 +113,15 @@ body {
   margin-top:-20px;
 }
 
+.sponsor-portion{
+  margin-top: -60px;
+}
+
+.n-word{
+  height: 38px;
+  width: 38px;
+}
+
+.column-3{
+  margin-top: -100px;
+}
