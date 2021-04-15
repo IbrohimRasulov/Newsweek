@@ -101,11 +101,15 @@ body {
   line-height: 120%;
 }
 
+.debate{
+}
+
 .vc{
   width: 30px;
   height: 30px;
   background-color: black;
   position: absolute;
-  top: 50%;
   left: 50%;
+  margin-top:-20px;
 }
+
