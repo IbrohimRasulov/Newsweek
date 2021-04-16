@@ -7,24 +7,10 @@ button {
 }
 
 .small {
-    font-family: Arial, Helvetica, sans-serif;
-  }
-
-.latest-news h6,
-.more-stories h6{
   font-family: Arial, Helvetica, sans-serif;
-  line-height: 120%;
 }
 
-.latest-news h4,
-.latest-news p,
-.more-stories h4,
-.more-stories p
-.opinion p,
-.the-debate p,
-.my-turn p,
 .vc,
-.font div
 p,
 h4,
 h6{
