@@ -15,38 +15,38 @@ body {
   overflow-x: hidden;
 }
 
-.vc{
+.vc {
   width: 30px;
   height: 30px;
   background-color: black;
   position: absolute;
   left: 50%;
-  margin-top:-20px;
+  margin-top: -24px;
 }
 
-.sponsor-portion{
+.sponsor-portion {
   margin-top: -60px;
 }
 
-.n-word{
+.n-word {
   height: 35px;
   width: 38px;
 }
 
-.line-height{
+.line-height {
   line-height: 80%;
 }
 
-.line-long{
+.line-long {
   line-height: 150%;
 }
 
-.underline:hover{
+.underline:hover {
   text-decoration: underline #f72111;
   color: black;
 }
 
-.none-decoration:hover{
+.none-decoration:hover {
   text-decoration: none;
   color: inherit;
 }
