@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
-/* START Header */
 li,
 a,
 button {
@@ -11,14 +10,20 @@ button {
   margin-top: 150px !important;
 }
 
+.background {
+  background-color: #f72111;
+}
+
 @media (min-width: 992px) {
   .space {
     margin-top: 80px !important;
   }
-}
-
-.background {
-  background-color: #f72111;
+  .button-border {
+    border-radius: 18px;
+    font-size: 18px;
+    background-color: #ffe401;
+    padding: 1px 12px;
+  }
 }
 
 @media (max-width: 767px) {
@@ -30,23 +35,14 @@ button {
   }
 }
 
-@media (min-width: 768px) {
-  .button-border {
-    border-radius: 18px;
-    font-size: 18px;
-    background-color: #ffe401;
-    padding: 1px 12px;
+@media (min-width: 992px) {
+  .main-logo-lg {
+    height: 60px !important;
   }
 }
 
 .login {
   font-size: 18px;
-}
-
-@media (min-width: 992px) {
-  .main-logo-lg {
-    height: 60px !important;
-  }
 }
 
 .list-inline-item:not(:last-child) {
@@ -66,8 +62,6 @@ header a:hover {
 .space{
   margin-top: 110px;
 }
-
-/* START Footer */
 
 .fa-lg:hover {
   color: #3f6ad8 !important;
