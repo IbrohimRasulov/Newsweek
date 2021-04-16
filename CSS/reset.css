@@ -64,7 +64,11 @@ header a{
   font-stretch: ultra-condensed;
 }
 
-.font-2{
+.font-2 {
   font-size: 15px;
   font-stretch: ultra-condensed !important;
+}
+
+.title {
+  font-stretch: ultra-condensed;
 }

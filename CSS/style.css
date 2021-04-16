@@ -50,3 +50,13 @@ body {
   text-decoration: none;
   color: inherit;
 }
+
+.img-text {
+  position: relative;
+}
+​
+.bottom-left {
+  position: absolute;
+  bottom: -8px;
+  left: 0;
+}
