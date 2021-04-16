@@ -60,10 +60,6 @@ header a:hover {
   font-weight: lighter;
 }
 
-.space{
-  margin-top: 110px;
-}
-
 .fa-lg:hover {
   color: #3f6ad8 !important;
 }
@@ -82,7 +78,7 @@ header a:hover {
 }
 
 .latest-news h6,
-.more-stories h6{
+.more-stories h6 {
   font-family: Arial, Helvetica, sans-serif;
   line-height: 120%;
 }
@@ -90,35 +86,35 @@ header a:hover {
 .latest-news h4,
 .latest-news p,
 .more-stories h4,
-.more-stories p
-.opinion p,
 .the-debate p,
 .my-turn p,
+.more-stories p,
+.opinion p,
 .vc,
 .font div {
   font-family: 'Roboto Condensed', sans-serif;
   line-height: 120%;
 }
 
-.vc{
+.vc {
   width: 30px;
   height: 30px;
   background-color: black;
   position: absolute;
   left: 50%;
-  margin-top:-20px;
+  margin-top: -20px;
 }
 
-.sponsor-portion{
+.sponsor-portion {
   margin-top: -60px;
 }
 
-.n-word{
+.n-word {
   height: 38px;
   width: 38px;
 }
 
-.column-3{
+.column-3 {
   margin-top: -100px;
 }
 
