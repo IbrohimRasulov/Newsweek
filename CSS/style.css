@@ -14,15 +14,16 @@ button {
   background-color: #f72111;
 }
 
+.button-border {
+  border-radius: 18px;
+  font-size: 18px;
+  background-color: #ffe401;
+  padding: 1px 12px;
+}
+
 @media (min-width: 992px) {
   .space {
     margin-top: 80px !important;
-  }
-  .button-border {
-    border-radius: 18px;
-    font-size: 18px;
-    background-color: #ffe401;
-    padding: 1px 12px;
   }
 }
 
