@@ -1,4 +1,66 @@
-.icon:hover {
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+li,
+a,
+button {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.space {
+  margin-top: 150px !important;
+}
+
+.background {
+  background-color: #f72111;
+}
+
+.button-border {
+  border-radius: 18px;
+  font-size: 18px;
+  background-color: #ffe401;
+  padding: 1px 12px;
+}
+
+@media (min-width: 992px) {
+  .space {
+    margin-top: 80px !important;
+  }
+}
+
+@media (max-width: 767px) {
+  .button-border {
+    border-radius: 17.5px;
+    font-size: 13px;
+    background-color: #ffe401;
+    padding: 2px 10px;
+  }
+}
+
+@media (min-width: 992px) {
+  .main-logo-lg {
+    height: 60px !important;
+  }
+}
+
+.login {
+  font-size: 18px;
+}
+
+.list-inline-item:not(:last-child) {
+  margin-right: 0;
+}
+
+header a:hover {
+  text-decoration: none;
+  color: #f72111;
+}
+
+.light-bar {
+  color: #ddd;
+  font-weight: lighter;
+}
+
+.fa-lg:hover {
   color: #3f6ad8 !important;
 }
 
@@ -21,10 +83,10 @@ body {
   background-color: black;
   position: absolute;
   left: 50%;
-  margin-top:-20px;
+  margin-top: -20px;
 }
 
-.sponsor-portion{
+.sponsor-portion {
   margin-top: -60px;
 }
 
