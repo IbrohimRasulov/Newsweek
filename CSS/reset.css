@@ -48,3 +48,16 @@ header a:hover {
 .space{
   margin-top: 76px;
 }
+
+header a{
+  letter-spacing: 0;
+}
+
+.list-inline-item{
+  font-size: 18px;
+  letter-spacing: 0;
+}
+
+.font-2{
+  font-size: 16px;
+}

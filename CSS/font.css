@@ -13,7 +13,8 @@ button {
 .vc,
 p,
 h4,
-h6{
+h6,
+.list-inline-item {
   font-family: 'Roboto Condensed', sans-serif;
   line-height: 120%;
 }
