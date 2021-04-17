@@ -30,7 +30,13 @@ The website is fully responsive with the help of three media query breakpoints. 
 [Live Demo Link](https://ibrohimrasulov.github.io/Newsweek/)
 
 ## Getting Started
-First thing to do on the way of cloning this <a href="https://web.archive.org/web/20210120125445/https://www.newsweek.com/">page</a> is getting the library of all pictures an icons. Than start to add all web page elements to html file. Second step is sorting elements into semantic and non-semantic tags. Than you can start to style them. But make sure you use bootstrap for everything if possible. Don't forget to complete fixed navbar and footer first.
+First thing to do on the way of cloning this <a href="https://web.archive.org/web/20210120125445/https://www.newsweek.com/">page</a> and running is the follow simple example steps.
+
+• git clone https://github.com/IbrohimRasulov/Newsweek.git
+• cd Newsweek
+• git checkout -b newsweek
+• git pull origin newsweek
+• If you have vscode live-server installed, run it and open localhost:3000
 
 ## Authors
 
