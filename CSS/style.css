@@ -1,9 +1,13 @@
-.icon:hover {
-  color: #3f6ad8 !important;
+.icon-hover:hover {
+  color: #3f6ad8;
 }
 
 .logo {
   fill: #f72111;
+}
+
+.red-text {
+  color: #f72111;
 }
 
 .bottom-footer a:hover {
@@ -29,12 +33,16 @@ body {
 }
 
 .n-word {
-  height: 35px;
-  width: 38px;
+  height: 32px;
+  width: 33px;
 }
 
 .line-height {
   line-height: 93%;
+}
+
+.line-height-1 {
+  line-height: 130%;
 }
 
 .line-long {
@@ -51,7 +59,8 @@ body {
   color: inherit;
 }
 
-.div-position {
+.div-position,
+.subscribe {
   position: relative;
 }
 
@@ -65,4 +74,24 @@ body {
   position: absolute;
   bottom: 0;
   left: 0;
+}
+
+.subscribe-1 {
+  position: relative;
+  top: -210px;
+  left: 90px;
+}
+
+.subscribe-2 {
+  position: relative;
+}
+
+.text-position-3 {
+  position: absolute;
+  bottom: -8px;
+  left: 0;
+}
+
+.section-breaker {
+  margin-top: 100px;
 }

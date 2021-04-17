@@ -6,7 +6,7 @@
 > In this project, we will replicate the archived version of the website Newsweek with bootstrap.
 This page is clone of <a href="https://web.archive.org/web/20210120125445/https://www.newsweek.com/">Newsweek Page</a>.
 You can compere this web page with real one via demo link.
-The website is fully responsive with the help of three media query breakpoints. This project has been built with help of nodern <button>CSS</button> and <button>Bootstrap</button>.
+The website is fully responsive with the help of three media query breakpoints. This project has been built with help of modern <button>CSS</button> and <button>Bootstrap</button>.
 
 
 ![screenshot](./screenshot-1.png)
@@ -30,7 +30,13 @@ The website is fully responsive with the help of three media query breakpoints. 
 [Live Demo Link](https://ibrohimrasulov.github.io/Newsweek/)
 
 ## Getting Started
-First thing to do on the way of cloning this <a href="https://web.archive.org/web/20210120125445/https://www.newsweek.com/">page</a> is getting the library of all pictures an icons. Than start to add all web page elements to html file. Second step is sorting elements into semantic and non-semantic tags. Than you can start to style them. But make sure you use bootstrap for everything if possible. Don't forget to complete fixed navbar and footer first.
+First things to do on the way of cloning this <a href="https://web.archive.org/web/20210120125445/https://www.newsweek.com/">page</a> are these steps.
+
+• git clone https://github.com/IbrohimRasulov/Newsweek.git <br>
+• cd Newsweek <br>
+• git checkout -b newsweek <br>
+• git pull origin newsweek <br>
+• If you have vscode live-server installed, run it and open localhost:3000
 
 ## Authors
 
