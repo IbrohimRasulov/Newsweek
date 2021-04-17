@@ -37,6 +37,10 @@ body {
   line-height: 93%;
 }
 
+.line-height-1 {
+  line-height: 130%;
+}
+
 .line-long {
   line-height: 150%;
 }
