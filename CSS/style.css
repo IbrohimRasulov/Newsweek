@@ -51,12 +51,19 @@ body {
   color: inherit;
 }
 
-.img-text {
+.div-position {
   position: relative;
 }
-​
-.bottom-left {
+
+.text-position {
   position: absolute;
-  bottom: -8px;
+  bottom: 0;
+  left: 15px;
+}
+
+.text-position-culture {
+  position: absolute;
+  bottom: 0;
   left: 0;
 }
+
