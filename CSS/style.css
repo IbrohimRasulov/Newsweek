@@ -6,6 +6,10 @@
   fill: #f72111;
 }
 
+.red-text{
+  color: #f72111;
+}
+
 .bottom-footer a:hover {
   text-decoration: none;
   color: #333;
