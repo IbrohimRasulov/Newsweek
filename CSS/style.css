@@ -29,8 +29,8 @@ body {
 }
 
 .n-word {
-  height: 35px;
-  width: 38px;
+  height: 32px;
+  width: 33px;
 }
 
 .line-height {
@@ -51,7 +51,8 @@ body {
   color: inherit;
 }
 
-.div-position {
+.div-position,
+.subscribe {
   position: relative;
 }
 
@@ -67,3 +68,6 @@ body {
   left: 0;
 }
 
+.subscribe-1 {
+  position: relative;
+}
