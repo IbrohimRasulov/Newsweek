@@ -69,5 +69,10 @@ body {
 }
 
 .subscribe-1 {
-  position: relative;
+  position: relative;}
+
+.text-position-3 {
+  position: absolute;
+  bottom: -8px;
+  left: 0;
 }
