@@ -67,3 +67,8 @@ body {
   left: 0;
 }
 
+.text-position-3 {
+  position: absolute;
+  bottom: -8px;
+  left: 0;
+}
