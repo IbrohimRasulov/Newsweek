@@ -69,7 +69,14 @@ body {
 }
 
 .subscribe-1 {
-  position: relative;}
+  position: relative;
+  top: -210px;
+  left: 90px;
+}
+
+.subscribe-2{
+  position: relative;
+}
 
 .text-position-3 {
   position: absolute;
