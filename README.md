@@ -64,4 +64,4 @@ Give a ⭐️ if you like this project!
  
 Copyright 2021 Ibrohim Rasulov & Zulfizar Abdumurodova.
 
-- [Apache License](https://github.com/AbdumurodovaZulfizar/Enumerables/blob/main/LICENSE.md) for this project.
+- [Apache License](https://github.com/AbdumurodovaZulfizar/Newsweek/blob/main/LICENSE.md) for this project.
