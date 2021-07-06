@@ -7,11 +7,11 @@
 You can compare this web page with a real one via a demo link. The website is fully responsive with the help of three media query breakpoints. This project has been built with help of modern <button>CSS</button> and <button>Bootstrap</button>.
 
 
-![screenshot](./screenshot-1.png)
+![screenshot](./newsweek-images/screenshot-1.png)
 
-![screenshot](./screenshot-2.png)
+![screenshot](./newsweek-images/screenshot-2.png)
 
-![screenshot](./screenshot-3.png)
+![screenshot](./newsweek-images/screenshot-3.png)
 
 ## Built With
 
