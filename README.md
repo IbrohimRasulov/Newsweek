@@ -3,17 +3,19 @@
 
 # Newsweek clone
 
+
 > In this project, we will replicate the archived version of the website Newsweek with bootstrap.
 This page is clone of <a href="https://web.archive.org/web/20210120125445/https://www.newsweek.com/">Newsweek Page</a>.
 You can compere this web page with real one via demo link.
 The website is fully responsive with the help of three media query breakpoints. This project has been built with help of modern <button>CSS</button> and <button>Bootstrap</button>.
 
 
-![screenshot](./screenshot-1.png)
 
-![screenshot](./screenshot-2.png)
+![screenshot](./newsweek-images/screenshot-1.png)
 
-![screenshot](./screenshot-3.png)
+![screenshot](./newsweek-images/screenshot-2.png)
+
+![screenshot](./newsweek-images/screenshot-3.png)
 
 ## Built With
 
@@ -65,11 +67,13 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Inspired in this archived version of the website [Newsweek](https://web.archive.org/web/20210120125445/https://www.newsweek.com/)
+- [Microverse](https://www.microverse.org/) for international opportunities and their `README` [template](https://github.com/microverseinc/readme-template).
 
 ## 📝License
 
  
 Copyright 2021 Ibrohim Rasulov & Zulfizar Abdumurodova.
 
-You can use these page freely to improve your knowledge!
-You can fork it and use as a basis if you want to build your own page!
+
+- [Apache License](https://github.com/AbdumurodovaZulfizar/Newsweek/blob/main/LICENSE.md) for this project.
+
